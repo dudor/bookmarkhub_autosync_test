@@ -1,0 +1,2 @@
+# bookmarkhub_autosync_test
+只是用来测试bookmarkhub的自动同步功能
