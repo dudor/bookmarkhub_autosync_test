@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636903058571,
-  "commitId": "1636903058571",
+  "createDate": 1636903184027,
+  "commitId": "1636903184027",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -72,7 +72,16 @@
         },
         {
           "title": "我的1",
-          "url": "https://github.com/dudor"
+          "children": [
+            {
+              "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
+              "url": "https://github.com/dudor/BookmarkHub"
+            },
+            {
+              "title": "dudor (dudor) · GitHub",
+              "url": "https://github.com/dudor"
+            }
+          ]
         },
         {
           "title": "科学上网",
@@ -234,6 +243,10 @@
         {
           "title": "手动添加url",
           "url": "http://www.github.com/"
+        },
+        {
+          "title": "阮一峰的网络日志",
+          "url": "https://www.ruanyifeng.com/blog/"
         }
       ]
     },
