@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636891826289,
-  "commitId": "1636891826289",
+  "createDate": 1636892309257,
+  "commitId": "1636892309257",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -83,23 +83,6 @@
           "url": "https://github.com/dudor/BookmarkHub"
         },
         {
-          "title": "folder3",
-          "children": [
-            {
-              "title": "YouTube",
-              "url": "https://www.youtube.com/"
-            },
-            {
-              "title": "Google",
-              "url": "https://www.google.com/"
-            },
-            {
-              "title": "V2EX",
-              "url": "https://v2ex.com/"
-            }
-          ]
-        },
-        {
           "title": "folder4",
           "children": [
             {
@@ -113,6 +96,23 @@
             {
               "title": "Google",
               "url": "https://www.google.com/"
+            }
+          ]
+        },
+        {
+          "title": "folder3",
+          "children": [
+            {
+              "title": "YouTube",
+              "url": "https://www.youtube.com/"
+            },
+            {
+              "title": "Google",
+              "url": "https://www.google.com/"
+            },
+            {
+              "title": "V2EX",
+              "url": "https://v2ex.com/"
             }
           ]
         },
