@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636899266346,
-  "commitId": "1636899266346",
+  "createDate": 1636899386389,
+  "commitId": "1636899386389",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -170,7 +170,28 @@
         },
         {
           "title": "新建文件夹-测试",
-          "children": []
+          "children": [
+            {
+              "title": "Golang tutorial - Go programming tutorial from golangbot",
+              "url": "https://golangbot.com/"
+            },
+            {
+              "title": "Map | Go语言圣经",
+              "url": "https://books.studygolang.com/gopl-zh/ch4/ch4-03.html"
+            },
+            {
+              "title": "Go 编程语言",
+              "url": "https://go-zh.org/"
+            },
+            {
+              "title": "Go by Example 中文版",
+              "url": "https://gobyexample.xgwang.me/"
+            },
+            {
+              "title": "Building a Web App With Go, Gin and React · hakaselogs",
+              "url": "https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/"
+            }
+          ]
         },
         {
           "title": "工具",
