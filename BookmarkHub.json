@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636891228287,
-  "commitId": "1636891228287",
+  "createDate": 1636891347212,
+  "commitId": "1636891347212",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -96,6 +96,23 @@
             {
               "title": "V2EX",
               "url": "https://v2ex.com/"
+            }
+          ]
+        },
+        {
+          "title": "folder4",
+          "children": [
+            {
+              "title": "YouTube",
+              "url": "https://www.youtube.com/"
+            },
+            {
+              "title": "V2EX",
+              "url": "https://v2ex.com/"
+            },
+            {
+              "title": "Google",
+              "url": "https://www.google.com/"
             }
           ]
         }
