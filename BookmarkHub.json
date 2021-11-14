@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636895306287,
-  "commitId": "1636895306287",
+  "createDate": 1636896867933,
+  "commitId": "1636896867933",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -98,6 +98,75 @@
         {
           "title": "Gmail: Free, Private & Secure Email | Google Workspace",
           "url": "https://www.google.com/intl/zh-CN/gmail/about/"
+        },
+        {
+          "title": "读书",
+          "children": [
+            {
+              "title": "前言（卷一） - [ 开源软件架构 ]",
+              "url": "http://www.kancloud.cn/kancloud/open-source-architecture/53158"
+            },
+            {
+              "title": "看云 | 专注技术文档在线创作、阅读、分享和托管",
+              "url": "http://www.kancloud.cn/"
+            },
+            {
+              "title": "鳥哥的 Linux 私房菜 -- 鳥哥的 Linux 私房菜 首頁",
+              "url": "http://linux.vbird.org/"
+            },
+            {
+              "title": "第0章 让我们谈谈学习方法和红帽系统。 | 《Linux就该这么学》",
+              "url": "http://www.linuxprobe.com/chapter-00/"
+            },
+            {
+              "title": "菜鸟教程 - 学的不仅是技术，更是梦想！",
+              "url": "http://www.runoob.com/"
+            },
+            {
+              "title": "慕课网(IMOOC)-国内最大的IT技能学习平台",
+              "url": "http://www.imooc.com/"
+            },
+            {
+              "title": "实验楼 - 国内领先的IT技术实训平台",
+              "url": "https://www.shiyanlou.com/"
+            },
+            {
+              "title": "Fenby | 专业面向初学者的在线互动编程学习的平台",
+              "url": "http://www.fenby.com/"
+            },
+            {
+              "title": "Explore - GitBook",
+              "url": "https://www.gitbook.com/explore"
+            },
+            {
+              "title": "GitHub - 521xueweihan/HelloGithub: HelloGithub月刊",
+              "url": "https://github.com/521xueweihan/HelloGithub"
+            },
+            {
+              "title": "凤凰系统x86版 - Phoenix OS",
+              "url": "http://www.phoenixos.com/download_x86"
+            },
+            {
+              "title": "30 天学习 30 种新技术系列 - 新闻 - SegmentFault",
+              "url": "https://segmentfault.com/a/1190000000349384"
+            },
+            {
+              "title": "实战无线网络分析（篇一）无线监听 - aneasystone's blog",
+              "url": "http://www.aneasystone.com/archives/2016/08/wireless-analysis-one-monitoring.html"
+            },
+            {
+              "title": "维基百科，自由的百科全书",
+              "url": "https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
+            },
+            {
+              "title": "不用找了，大厂在用的分库分表方案，都在这里！ - 掘金",
+              "url": "https://juejin.im/post/5e508264f265da574657d1ca?utm_source=gold_browser_extension"
+            },
+            {
+              "title": "i-Book.in",
+              "url": "https://book.tstrs.me/"
+            }
+          ]
         }
       ]
     },
