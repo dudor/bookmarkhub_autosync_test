@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636898666352,
-  "commitId": "1636898666352",
+  "createDate": 1636898786349,
+  "commitId": "1636898786349",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -171,6 +171,48 @@
         {
           "title": "新建文件夹-测试",
           "children": []
+        },
+        {
+          "title": "工具",
+          "children": [
+            {
+              "title": "在线HTML格式化、在线格式化HTML代码、HTML代码美化器--查错网",
+              "url": "http://web.chacuo.net/formathtml"
+            },
+            {
+              "title": "JSON在线 | JSON解析格式化—SO JSON在线",
+              "url": "https://www.sojson.com/"
+            },
+            {
+              "title": "Save Editor",
+              "url": "https://www.saveeditonline.com/"
+            }
+          ]
+        },
+        {
+          "title": "GIT",
+          "children": [
+            {
+              "title": "Git版本控制使用方法入门教程",
+              "url": "http://www.uml.org.cn/pzgl/201204285.asp"
+            },
+            {
+              "title": "添加远程库 - 廖雪峰的官方网站",
+              "url": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000"
+            },
+            {
+              "title": "git 使用简易指南",
+              "url": "http://www.bootcss.com/p/git-guide/"
+            },
+            {
+              "title": "Git Community Book 中文版",
+              "url": "http://gitbook.liuhui998.com/"
+            },
+            {
+              "title": "Pro Git",
+              "url": "https://progit.org/"
+            }
+          ]
         }
       ]
     },
