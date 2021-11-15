@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636987654567,
-  "commitId": "1636987654567",
+  "createDate": 1636988232344,
+  "commitId": "1636988232344",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -31,12 +31,11 @@
         },
         {
           "title": "空文件夹bug",
-          "children": [
-            {
-              "title": "GitHub",
-              "url": "http://www.github.com/"
-            }
-          ]
+          "children": []
+        },
+        {
+          "title": "GitHub",
+          "url": "http://www.github.com/"
         },
         {
           "title": "文档",
