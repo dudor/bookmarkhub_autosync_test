@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636964155154,
-  "commitId": "1636964155154",
+  "createDate": 1636964275373,
+  "commitId": "1636964275374",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -10,7 +10,12 @@
       "children": [
         {
           "title": "空文件夹有bug",
-          "children": []
+          "children": [
+            {
+              "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
+              "url": "https://github.com/dudor/BookmarkHub"
+            }
+          ]
         },
         {
           "title": "文档",
@@ -237,10 +242,6 @@
         {
           "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
           "url": "https://github.com/dudor/bookmarkhub_autosync_test"
-        },
-        {
-          "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
-          "url": "https://github.com/dudor/BookmarkHub"
         },
         {
           "title": "GitHub - lyrric/seckill: 苗苗 约苗 九价 秒杀 脚本",
