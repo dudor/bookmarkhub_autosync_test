@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636974235429,
-  "commitId": "1636974235430",
+  "createDate": 1636975075301,
+  "commitId": "1636975075302",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -78,6 +78,10 @@
           "title": "读书",
           "children": [
             {
+              "title": "阮一峰的网络日志",
+              "url": "https://www.ruanyifeng.com/blog/"
+            },
+            {
               "title": "前言（卷一） - [ 开源软件架构 ]",
               "url": "http://www.kancloud.cn/kancloud/open-source-architecture/53158"
             },
@@ -140,10 +144,6 @@
             {
               "title": "i-Book.in",
               "url": "https://book.tstrs.me/"
-            },
-            {
-              "title": "阮一峰的网络日志",
-              "url": "https://www.ruanyifeng.com/blog/"
             }
           ]
         },
