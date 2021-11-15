@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636990385709,
-  "commitId": "1636990385709",
+  "createDate": 1636990625742,
+  "commitId": "1636990625742",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -39,6 +39,10 @@
             {
               "title": "https://api.github.com",
               "url": "https://api.github.com/"
+            },
+            {
+              "title": "GitHub Documentation",
+              "url": "https://docs.github.com/en"
             }
           ]
         },
