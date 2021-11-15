@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636975075301,
-  "commitId": "1636975075302",
+  "createDate": 1636982131405,
+  "commitId": "1636982131405",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -11,6 +11,14 @@
         {
           "title": "测试文件夹",
           "children": [
+            {
+              "title": "博客园 - 开发者的网上家园",
+              "url": "https://cnblogs.com/"
+            },
+            {
+              "title": "Win10下IIS配置 C#项目的部署与发布_绝圣弃智-零的博客-CSDN博客",
+              "url": "https://blog.csdn.net/qq_40741855/article/details/84998308"
+            },
             {
               "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
               "url": "https://github.com/dudor/bookmarkhub_autosync_test"
@@ -150,6 +158,26 @@
         {
           "title": "科学上网",
           "children": [
+            {
+              "title": "Golang tutorial - Go programming tutorial from golangbot",
+              "url": "https://golangbot.com/"
+            },
+            {
+              "title": "Map | Go语言圣经",
+              "url": "https://books.studygolang.com/gopl-zh/ch4/ch4-03.html"
+            },
+            {
+              "title": "Go 编程语言",
+              "url": "https://go-zh.org/"
+            },
+            {
+              "title": "Go by Example 中文版",
+              "url": "https://gobyexample.xgwang.me/"
+            },
+            {
+              "title": "Building a Web App With Go, Gin and React · hakaselogs",
+              "url": "https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/"
+            },
             {
               "title": "V2EX",
               "url": "https://v2ex.com/"
