@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636941835119,
-  "commitId": "1636941835120",
+  "createDate": 1636942315149,
+  "commitId": "1636942315149",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -250,6 +250,10 @@
         {
           "title": "GitHub - leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.",
           "url": "https://github.com/leonardomso/33-js-concepts"
+        },
+        {
+          "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
+          "url": "https://juejin.cn/post/7030585901524713508"
         }
       ]
     },
