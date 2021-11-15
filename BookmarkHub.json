@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636942315149,
-  "commitId": "1636942315149",
+  "createDate": 1636947475119,
+  "commitId": "1636947475119",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -254,6 +254,14 @@
         {
           "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
           "url": "https://juejin.cn/post/7030585901524713508"
+        },
+        {
+          "title": "GitHub - babysor/MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+          "url": "https://github.com/babysor/MockingBird"
+        },
+        {
+          "title": "GitHub - sveltejs/svelte: Cybernetically enhanced web apps",
+          "url": "https://github.com/sveltejs/svelte"
         }
       ]
     },
