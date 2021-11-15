@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636986814089,
-  "commitId": "1636986814090",
+  "createDate": 1636986934102,
+  "commitId": "1636986934102",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -31,7 +31,12 @@
         },
         {
           "title": "空文件夹bug",
-          "children": []
+          "children": [
+            {
+              "title": "GitHub",
+              "url": "http://www.github.com/"
+            }
+          ]
         },
         {
           "title": "文档",
@@ -270,10 +275,6 @@
               "url": "https://progit.org/"
             }
           ]
-        },
-        {
-          "title": "GitHub",
-          "url": "http://www.github.com/"
         },
         {
           "title": "GitHub - lyrric/seckill: 苗苗 约苗 九价 秒杀 脚本",
