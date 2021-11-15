@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1636903418573,
-  "commitId": "1636903418573",
+  "createDate": 1636940155177,
+  "commitId": "1636940155177",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -238,6 +238,14 @@
         {
           "title": "阮一峰的网络日志",
           "url": "https://www.ruanyifeng.com/blog/"
+        },
+        {
+          "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
+          "url": "https://github.com/dudor/bookmarkhub_autosync_test"
+        },
+        {
+          "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
+          "url": "https://github.com/dudor/BookmarkHub"
         }
       ]
     },
