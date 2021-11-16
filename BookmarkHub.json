@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637044866800,
-  "commitId": "1637044866800",
+  "createDate": 1637045586756,
+  "commitId": "1637045586756",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -367,6 +367,10 @@
         {
           "title": "GitHub - javascript-obfuscator/javascript-obfuscator: A powerful obfuscator for JavaScript and Node.js",
           "url": "https://github.com/javascript-obfuscator/javascript-obfuscator"
+        },
+        {
+          "title": "GitHub - vercel/next.js: The React Framework",
+          "url": "https://github.com/vercel/next.js"
         }
       ]
     },
