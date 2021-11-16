@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637028804622,
-  "commitId": "1637028804622",
+  "createDate": 1637028924261,
+  "commitId": "1637028924261",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -358,7 +358,11 @@
         },
         {
           "title": "GitHub - ixartz/Next-js-Boilerplate: 🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS",
-          "url": "https://github.com/ixartz/Next-js-Boilerplate?utm_source=gold_browser_extension"
+          "url": "https://github.com/ixartz/Next-js-Boilerplate"
+        },
+        {
+          "title": "GitHub - microsoft/vscode: Visual Studio Code",
+          "url": "https://github.com/microsoft/vscode"
         }
       ]
     },
