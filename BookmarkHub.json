@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637025324204,
-  "commitId": "1637025324204",
+  "createDate": 1637025804176,
+  "commitId": "1637025804176",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -260,7 +260,7 @@
           ]
         },
         {
-          "title": "同步重复bug",
+          "title": "rep时同步重复bug",
           "children": [
             {
               "title": "Git版本控制使用方法入门教程",
