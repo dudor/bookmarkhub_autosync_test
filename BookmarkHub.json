@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637126273796,
-  "commitId": "1637126273796",
+  "createDate": 1637126393838,
+  "commitId": "1637126393838",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -294,10 +294,6 @@
             {
               "title": "Git Community Book 中文版",
               "url": "http://gitbook.liuhui998.com/"
-            },
-            {
-              "title": "Pro Git ",
-              "url": "https://progit.org/"
             }
           ]
         },
