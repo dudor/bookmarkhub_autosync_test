@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637134193973,
-  "commitId": "1637134193973",
+  "createDate": 1637134914191,
+  "commitId": "1637134914191",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -31,20 +31,7 @@
         },
         {
           "title": "空文件测试",
-          "children": [
-            {
-              "title": "GitHub",
-              "url": "http://www.github.com/"
-            },
-            {
-              "title": "https://api.github.com",
-              "url": "https://api.github.com/"
-            },
-            {
-              "title": "GitHub Documentation",
-              "url": "https://docs.github.com/en"
-            }
-          ]
+          "children": []
         },
         {
           "title": "github",
