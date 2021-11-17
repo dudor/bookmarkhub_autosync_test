@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637113673819,
-  "commitId": "1637113673819",
+  "createDate": 1637114393780,
+  "commitId": "1637114393780",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -348,6 +348,10 @@
         {
           "title": "TypeScript 类型编程 - 掘金",
           "url": "https://juejin.cn/post/7031082611636174884"
+        },
+        {
+          "title": "完了，又火一个前端项目 - 掘金",
+          "url": "https://juejin.cn/post/6983177757219897352"
         }
       ]
     },
