@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637158299590,
-  "commitId": "1637158299591",
+  "createDate": 1637159139573,
+  "commitId": "1637159139573",
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
@@ -264,7 +264,7 @@
           ]
         },
         {
-          "title": "同步重复bug1",
+          "title": "同步重复bug2",
           "children": [
             {
               "title": "Git版本控制使用方法入门教程",
@@ -275,7 +275,7 @@
               "url": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000"
             },
             {
-              "title": "git 使用简易指南",
+              "title": "git 使用简易指南1213",
               "url": "http://www.bootcss.com/p/git-guide/"
             },
             {
