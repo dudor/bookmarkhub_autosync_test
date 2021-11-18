@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637204605826,
-  "commitId": "1637204605826",
+  "createDate": 1637209765893,
+  "commitId": "1637209765894",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -178,6 +178,10 @@
             {
               "title": "i-Book.in",
               "url": "https://book.tstrs.me/"
+            },
+            {
+              "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
+              "url": "https://juejin.cn/post/7031461636158259214"
             }
           ]
         },
@@ -316,10 +320,6 @@
         {
           "title": "完了，又火一个前端项目 - 掘金",
           "url": "https://juejin.cn/post/6983177757219897352"
-        },
-        {
-          "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
-          "url": "https://juejin.cn/post/7031461636158259214"
         }
       ]
     },
