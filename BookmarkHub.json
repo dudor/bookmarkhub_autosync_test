@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637209765893,
-  "commitId": "1637209765894",
+  "createDate": 1637244757677,
+  "commitId": "1637244757677",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -48,6 +48,46 @@
             {
               "title": "GitHub - freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
               "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+            },
+            {
+              "title": "GitHub - lyrric/seckill: 苗苗 约苗 九价 秒杀 脚本",
+              "url": "https://github.com/lyrric/seckill"
+            },
+            {
+              "title": "GitHub - leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.",
+              "url": "https://github.com/leonardomso/33-js-concepts"
+            },
+            {
+              "title": "GitHub - babysor/MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+              "url": "https://github.com/babysor/MockingBird"
+            },
+            {
+              "title": "GitHub - sveltejs/svelte: Cybernetically enhanced web apps",
+              "url": "https://github.com/sveltejs/svelte"
+            },
+            {
+              "title": "GitHub - dotnetcore/FastGithub: github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+              "url": "https://github.com/dotnetcore/FastGithub"
+            },
+            {
+              "title": "GitHub - typeorm/typeorm: ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+              "url": "https://github.com/typeorm/typeorm"
+            },
+            {
+              "title": "GitHub - ixartz/Next-js-Boilerplate: 🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS",
+              "url": "https://github.com/ixartz/Next-js-Boilerplate"
+            },
+            {
+              "title": "GitHub - microsoft/vscode: Visual Studio Code",
+              "url": "https://github.com/microsoft/vscode"
+            },
+            {
+              "title": "GitHub - javascript-obfuscator/javascript-obfuscator: A powerful obfuscator for JavaScript and Node.js",
+              "url": "https://github.com/javascript-obfuscator/javascript-obfuscator"
+            },
+            {
+              "title": "GitHub - vercel/next.js: The React Framework",
+              "url": "https://github.com/vercel/next.js"
             }
           ]
         },
@@ -249,7 +289,7 @@
           ]
         },
         {
-          "title": "同步重复bug",
+          "title": "git",
           "children": [
             {
               "title": "Git版本控制使用方法入门教程",
@@ -270,56 +310,21 @@
           ]
         },
         {
-          "title": "GitHub - lyrric/seckill: 苗苗 约苗 九价 秒杀 脚本",
-          "url": "https://github.com/lyrric/seckill"
-        },
-        {
-          "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
-          "url": "https://juejin.cn/post/7030585901524713508"
-        },
-        {
-          "title": "GitHub - leonardomso/33-js-concepts: 📜 33 JavaScript concepts every developer should know.",
-          "url": "https://github.com/leonardomso/33-js-concepts"
-        },
-        {
-          "title": "GitHub - babysor/MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-          "url": "https://github.com/babysor/MockingBird"
-        },
-        {
-          "title": "GitHub - sveltejs/svelte: Cybernetically enhanced web apps",
-          "url": "https://github.com/sveltejs/svelte"
-        },
-        {
-          "title": "GitHub - dotnetcore/FastGithub: github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
-          "url": "https://github.com/dotnetcore/FastGithub"
-        },
-        {
-          "title": "GitHub - typeorm/typeorm: ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
-          "url": "https://github.com/typeorm/typeorm"
-        },
-        {
-          "title": "GitHub - ixartz/Next-js-Boilerplate: 🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS",
-          "url": "https://github.com/ixartz/Next-js-Boilerplate"
-        },
-        {
-          "title": "GitHub - microsoft/vscode: Visual Studio Code",
-          "url": "https://github.com/microsoft/vscode"
-        },
-        {
-          "title": "GitHub - javascript-obfuscator/javascript-obfuscator: A powerful obfuscator for JavaScript and Node.js",
-          "url": "https://github.com/javascript-obfuscator/javascript-obfuscator"
-        },
-        {
-          "title": "GitHub - vercel/next.js: The React Framework",
-          "url": "https://github.com/vercel/next.js"
-        },
-        {
-          "title": "TypeScript 类型编程 - 掘金",
-          "url": "https://juejin.cn/post/7031082611636174884"
-        },
-        {
-          "title": "完了，又火一个前端项目 - 掘金",
-          "url": "https://juejin.cn/post/6983177757219897352"
+          "title": "掘金",
+          "children": [
+            {
+              "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
+              "url": "https://juejin.cn/post/7030585901524713508"
+            },
+            {
+              "title": "TypeScript 类型编程 - 掘金",
+              "url": "https://juejin.cn/post/7031082611636174884"
+            },
+            {
+              "title": "完了，又火一个前端项目 - 掘金",
+              "url": "https://juejin.cn/post/6983177757219897352"
+            }
+          ]
         }
       ]
     },
