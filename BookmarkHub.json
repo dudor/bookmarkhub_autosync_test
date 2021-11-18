@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637246583552,
-  "commitId": "1637246583552",
+  "createDate": 1637246739245,
+  "commitId": "1637246739245",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -272,6 +272,48 @@
           ]
         },
         {
+          "title": "掘金GT",
+          "children": [
+            {
+              "title": "完了，又火一个前端项目 - 掘金",
+              "url": "https://juejin.cn/post/6983177757219897352"
+            },
+            {
+              "title": "TypeScript 类型编程 - 掘金",
+              "url": "https://juejin.cn/post/7031082611636174884"
+            },
+            {
+              "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
+              "url": "https://juejin.cn/post/7030585901524713508"
+            },
+            {
+              "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
+              "url": "https://juejin.cn/post/7031461636158259214"
+            }
+          ]
+        },
+        {
+          "title": "git",
+          "children": [
+            {
+              "title": "Git版本控制使用方法入门教程",
+              "url": "http://www.uml.org.cn/pzgl/201204285.asp"
+            },
+            {
+              "title": "添加远程库 - 廖雪峰的官方网站",
+              "url": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000"
+            },
+            {
+              "title": "git 使用简易指南",
+              "url": "http://www.bootcss.com/p/git-guide/"
+            },
+            {
+              "title": "Git Community Book 中文版",
+              "url": "http://gitbook.liuhui998.com/"
+            }
+          ]
+        },
+        {
           "title": "工具",
           "children": [
             {
@@ -285,48 +327,6 @@
             {
               "title": "Save Editor",
               "url": "https://www.saveeditonline.com/"
-            },
-            {
-              "title": "git",
-              "children": [
-                {
-                  "title": "Git版本控制使用方法入门教程",
-                  "url": "http://www.uml.org.cn/pzgl/201204285.asp"
-                },
-                {
-                  "title": "添加远程库 - 廖雪峰的官方网站",
-                  "url": "http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000"
-                },
-                {
-                  "title": "git 使用简易指南",
-                  "url": "http://www.bootcss.com/p/git-guide/"
-                },
-                {
-                  "title": "Git Community Book 中文版",
-                  "url": "http://gitbook.liuhui998.com/"
-                },
-                {
-                  "title": "掘金GT",
-                  "children": [
-                    {
-                      "title": "完了，又火一个前端项目 - 掘金",
-                      "url": "https://juejin.cn/post/6983177757219897352"
-                    },
-                    {
-                      "title": "TypeScript 类型编程 - 掘金",
-                      "url": "https://juejin.cn/post/7031082611636174884"
-                    },
-                    {
-                      "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
-                      "url": "https://juejin.cn/post/7030585901524713508"
-                    },
-                    {
-                      "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
-                      "url": "https://juejin.cn/post/7031461636158259214"
-                    }
-                  ]
-                }
-              ]
             }
           ]
         }
