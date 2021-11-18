@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637246223578,
-  "commitId": "1637246223578",
+  "createDate": 1637246343554,
+  "commitId": "1637246343554",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -310,7 +310,7 @@
           ]
         },
         {
-          "title": "掘金",
+          "title": "掘金GT",
           "children": [
             {
               "title": "完了，又火一个前端项目 - 掘金",
