@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637246103632,
-  "commitId": "1637246103632",
+  "createDate": 1637246223578,
+  "commitId": "1637246223578",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -310,20 +310,25 @@
           ]
         },
         {
-          "title": "完了，又火一个前端项目 - 掘金",
-          "url": "https://juejin.cn/post/6983177757219897352"
-        },
-        {
-          "title": "TypeScript 类型编程 - 掘金",
-          "url": "https://juejin.cn/post/7031082611636174884"
-        },
-        {
-          "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
-          "url": "https://juejin.cn/post/7030585901524713508"
-        },
-        {
-          "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
-          "url": "https://juejin.cn/post/7031461636158259214"
+          "title": "掘金",
+          "children": [
+            {
+              "title": "完了，又火一个前端项目 - 掘金",
+              "url": "https://juejin.cn/post/6983177757219897352"
+            },
+            {
+              "title": "TypeScript 类型编程 - 掘金",
+              "url": "https://juejin.cn/post/7031082611636174884"
+            },
+            {
+              "title": "localStorage灵魂五问。 5M？？ 10M !!! - 掘金",
+              "url": "https://juejin.cn/post/7030585901524713508"
+            },
+            {
+              "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
+              "url": "https://juejin.cn/post/7031461636158259214"
+            }
+          ]
         }
       ]
     },
