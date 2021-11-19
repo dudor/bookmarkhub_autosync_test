@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637246943507,
-  "commitId": "1637246943507",
+  "createDate": 1637286572981,
+  "commitId": "1637286572982",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -19,14 +19,6 @@
             {
               "title": "Win10下IIS配置 C#项目的部署与发布_绝圣弃智-零的博客-CSDN博客",
               "url": "https://blog.csdn.net/qq_40741855/article/details/84998308"
-            },
-            {
-              "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
-              "url": "https://github.com/dudor/bookmarkhub_autosync_test"
-            },
-            {
-              "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
-              "url": "https://github.com/dudor/BookmarkHub"
             }
           ]
         },
@@ -88,6 +80,14 @@
             {
               "title": "GitHub - vercel/next.js: The React Framework",
               "url": "https://github.com/vercel/next.js"
+            },
+            {
+              "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
+              "url": "https://github.com/dudor/BookmarkHub"
+            },
+            {
+              "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
+              "url": "https://github.com/dudor/bookmarkhub_autosync_test"
             }
           ]
         },
@@ -155,16 +155,8 @@
               "url": "https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
             },
             {
-              "title": "不用找了，大厂在用的分库分表方案，都在这里！ - 掘金",
-              "url": "https://juejin.im/post/5e508264f265da574657d1ca?utm_source=gold_browser_extension"
-            },
-            {
               "title": "i-Book.in",
               "url": "https://book.tstrs.me/"
-            },
-            {
-              "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
-              "url": "https://juejin.cn/post/7031461636158259214"
             }
           ]
         },
@@ -289,6 +281,14 @@
             {
               "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
               "url": "https://juejin.cn/post/7031461636158259214"
+            },
+            {
+              "title": "w字总结《JavaScript设计模式与开发实践》（设计模式）（上） - 掘金",
+              "url": "https://juejin.cn/post/7031461636158259214"
+            },
+            {
+              "title": "不用找了，大厂在用的分库分表方案，都在这里！ - 掘金",
+              "url": "https://juejin.im/post/5e508264f265da574657d1ca?utm_source=gold_browser_extension"
             }
           ]
         },
