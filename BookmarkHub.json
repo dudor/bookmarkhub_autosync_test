@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637390211047,
-  "commitId": "1637390211048",
+  "createDate": 1637404490389,
+  "commitId": "1637404490389",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -333,6 +333,14 @@
               "url": "https://stackblitz.com/"
             }
           ]
+        },
+        {
+          "title": "GitHub - mqyqingfeng/Blog: 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+          "url": "https://github.com/mqyqingfeng/Blog"
+        },
+        {
+          "title": "GitHub - ruanyf/weekly: 科技爱好者周刊，每周五发布",
+          "url": "https://github.com/ruanyf/weekly"
         }
       ]
     },
