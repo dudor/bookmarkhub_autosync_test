@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637404490389,
-  "commitId": "1637404490389",
+  "createDate": 1637404610340,
+  "commitId": "1637404610340",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -341,6 +341,14 @@
         {
           "title": "GitHub - ruanyf/weekly: 科技爱好者周刊，每周五发布",
           "url": "https://github.com/ruanyf/weekly"
+        },
+        {
+          "title": "GitHub - itdevbooks/pdf: 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+          "url": "https://github.com/itdevbooks/pdf"
+        },
+        {
+          "title": "GitHub - taosdata/TDengine: An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+          "url": "https://github.com/taosdata/TDengine"
         }
       ]
     },
