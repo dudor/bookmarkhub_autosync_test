@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637404610340,
-  "commitId": "1637404610340",
+  "createDate": 1637404730372,
+  "commitId": "1637404730372",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -349,6 +349,10 @@
         {
           "title": "GitHub - taosdata/TDengine: An open-source big data platform designed and optimized for the Internet of Things (IoT).",
           "url": "https://github.com/taosdata/TDengine"
+        },
+        {
+          "title": "GitHub - alan2207/bulletproof-react: 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+          "url": "https://github.com/alan2207/bulletproof-react"
         }
       ]
     },
