@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637502998367,
-  "commitId": "1637502998367",
+  "createDate": 1637503718078,
+  "commitId": "1637503718078",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -338,6 +338,10 @@
             {
               "title": "Git Community Book 中文版",
               "url": "http://gitbook.liuhui998.com/"
+            },
+            {
+              "title": "GitHub - flyhigher139/Git-Cheat-Sheet: Git Cheat Sheet中文版, translated by Gevin (flyhigher139)",
+              "url": "https://github.com/flyhigher139/Git-Cheat-Sheet"
             }
           ]
         },
