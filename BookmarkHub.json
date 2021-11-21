@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637419766090,
-  "commitId": "1637419766090",
+  "createDate": 1637454884292,
+  "commitId": "1637454884292",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -36,6 +36,10 @@
             {
               "title": "GitHub Documentation",
               "url": "https://docs.github.com/en"
+            },
+            {
+              "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
+              "url": "https://github.com/dudor/bookmarkhub_autosync_test"
             },
             {
               "title": "GitHub - freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
@@ -84,10 +88,6 @@
             {
               "title": "GitHub - dudor/BookmarkHub: BookmarkHub , sync bookmarks across different browsers",
               "url": "https://github.com/dudor/BookmarkHub"
-            },
-            {
-              "title": "GitHub - dudor/bookmarkhub_autosync_test: 只是用来测试bookmarkhub的自动同步功能",
-              "url": "https://github.com/dudor/bookmarkhub_autosync_test"
             },
             {
               "title": "GitHub - mqyqingfeng/Blog: 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
