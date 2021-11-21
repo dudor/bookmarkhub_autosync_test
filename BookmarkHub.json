@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637487064872,
-  "commitId": "1637487064872",
+  "createDate": 1637502073779,
+  "commitId": "1637502073779",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -369,6 +369,10 @@
         {
           "title": "GitHub - apache/echarts: Apache ECharts is a powerful, interactive charting and data visualization library for browser",
           "url": "https://github.com/apache/echarts"
+        },
+        {
+          "title": "How to fetch data with React Hooks",
+          "url": "https://www.robinwieruch.de/react-hooks-fetch-data/"
         }
       ]
     },
