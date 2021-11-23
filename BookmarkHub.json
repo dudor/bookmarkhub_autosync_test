@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637629525649,
-  "commitId": "1637629525650",
+  "createDate": 1637679304007,
+  "commitId": "1637679304007",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -193,6 +193,10 @@
             {
               "title": "i-Book.in",
               "url": "https://book.tstrs.me/"
+            },
+            {
+              "title": "How to fetch data with React Hooks",
+              "url": "https://www.robinwieruch.de/react-hooks-fetch-data/"
             }
           ]
         },
@@ -373,10 +377,6 @@
               "url": "https://stackblitz.com/"
             }
           ]
-        },
-        {
-          "title": "How to fetch data with React Hooks",
-          "url": "https://www.robinwieruch.de/react-hooks-fetch-data/"
         }
       ]
     },
