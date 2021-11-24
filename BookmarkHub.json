@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1637679304007,
-  "commitId": "1637679304007",
+  "createDate": 1637762098795,
+  "commitId": "1637762098795",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -377,6 +377,10 @@
               "url": "https://stackblitz.com/"
             }
           ]
+        },
+        {
+          "title": "React Query - Hooks for fetching, caching and updating asynchronous data in React",
+          "url": "https://react-query.tanstack.com/"
         }
       ]
     },
