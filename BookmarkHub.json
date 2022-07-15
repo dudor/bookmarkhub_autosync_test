@@ -1,23 +1,44 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4621.0 Safari/537.36",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1639198139502,
-  "commitId": "1639198139502",
+  "createDate": 1657891467050,
+  "commitId": "1657891467050",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
     {
-      "title": "ToolbarFolder",
       "children": [
         {
+          "dateAdded": 1653403100051,
+          "id": "5",
+          "index": 0,
+          "parentId": "1",
           "title": "BookmarkHub - 书签同步 - Chrome 网上应用店",
           "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
+        },
+        {
+          "dateAdded": 1657889549194,
+          "id": "10",
+          "index": 1,
+          "parentId": "1",
+          "title": "DeepL翻译：全世界最准确的翻译",
+          "url": "https://www.deepl.com/translator"
         }
-      ]
+      ],
+      "dateAdded": 1636818573248,
+      "dateGroupModified": 1657889549194,
+      "id": "1",
+      "index": 0,
+      "parentId": "0",
+      "title": "ToolbarFolder"
     },
     {
-      "title": "UnfiledFolder",
-      "children": []
+      "children": [],
+      "dateAdded": 1636818573248,
+      "id": "2",
+      "index": 1,
+      "parentId": "0",
+      "title": "UnfiledFolder"
     }
   ]
 }
