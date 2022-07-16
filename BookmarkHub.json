@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1657982041405,
-  "commitId": "1657982041405",
+  "createDate": 1657982339095,
+  "commitId": "1657982339095",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -40,6 +40,10 @@
         {
           "title": "DeepL翻译：全世界最准确的翻译",
           "url": "https://www.deepl.com/translator"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/"
         }
       ],
       "title": "ToolbarFolder"
