@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1658239803322,
-  "commitId": "1658239803322",
+  "createDate": 1658240740567,
+  "commitId": "1658240740568",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -64,6 +64,10 @@
         {
           "title": "The Go Programming Language",
           "url": "https://go.dev/"
+        },
+        {
+          "title": "扩展程序 - BookmarkHub",
+          "url": "chrome://extensions/?id=igdcnncfnllmefmkfgedihmagiclcjhb"
         }
       ],
       "title": "ToolbarFolder"
