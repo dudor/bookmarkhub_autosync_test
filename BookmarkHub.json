@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1658240860893,
-  "commitId": "1658240860893",
+  "createDate": 1658241220406,
+  "commitId": "1658241220406",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -29,6 +29,22 @@
             {
               "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
               "url": "https://vuejs.org/"
+            },
+            {
+              "title": "维基百科，自由的百科全书",
+              "url": "https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
+            },
+            {
+              "title": "Learn Rust - Rust Programming Language",
+              "url": "https://www.rust-lang.org/learn"
+            },
+            {
+              "title": "The Go Programming Language",
+              "url": "https://go.dev/"
+            },
+            {
+              "title": "Apple",
+              "url": "https://www.apple.com/"
             }
           ],
           "title": "fav"
@@ -56,18 +72,6 @@
         {
           "title": "GitHub - wailsapp/wails: Create beautiful applications using Go",
           "url": "https://github.com/wailsapp/wails"
-        },
-        {
-          "title": "Apple",
-          "url": "https://www.apple.com/"
-        },
-        {
-          "title": "The Go Programming Language",
-          "url": "https://go.dev/"
-        },
-        {
-          "title": "Learn Rust - Rust Programming Language",
-          "url": "https://www.rust-lang.org/learn"
         }
       ],
       "title": "ToolbarFolder"
