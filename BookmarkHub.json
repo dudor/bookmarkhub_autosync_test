@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1658242061744,
-  "commitId": "1658242061744",
+  "createDate": 1658328820402,
+  "commitId": "1658328820402",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -72,6 +72,10 @@
         {
           "title": "V2EX",
           "url": "https://v2ex.com/?tab=all"
+        },
+        {
+          "title": "Visual Studio Code - Code Editing. Redefined",
+          "url": "https://code.visualstudio.com/"
         }
       ],
       "title": "ToolbarFolder"
