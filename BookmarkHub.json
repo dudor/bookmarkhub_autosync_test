@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1670434131254,
-  "commitId": "1670434131254",
+  "createDate": 1670434311668,
+  "commitId": "1670434311668",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE!",
   "bookmarks": [
@@ -92,31 +92,16 @@
         {
           "title": "Mantine",
           "url": "https://mantine.dev/"
+        },
+        {
+          "title": "稀土掘金",
+          "url": "https://juejin.cn/"
         }
       ],
       "title": "ToolbarFolder"
     },
     {
-      "children": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "title": "博客园 - 开发者的网上家园",
-                  "url": "https://cnblogs.com/"
-                },
-                {
-                  "title": "Win10下IIS配置 C#项目的部署与发布_绝圣弃智-零的博客-CSDN博客",
-                  "url": "https://blog.csdn.net/qq_40741855/article/details/84998308"
-                }
-              ],
-              "title": "folder1"
-            }
-          ],
-          "title": "其他收藏"
-        }
-      ],
+      "children": [],
       "title": "UnfiledFolder"
     }
   ]
