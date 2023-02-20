@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
   "version": "0.0.1",
-  "createDate": 1676787826131,
-  "commitId": "1676787826131",
+  "createDate": 1676903774536,
+  "commitId": "1676903774536",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -57,6 +57,10 @@
             {
               "title": "她会魔法吧 - YouTube",
               "url": "https://www.youtube.com/watch?v=BWK_n6t9nd0"
+            },
+            {
+              "title": "https://chat.openai.com",
+              "url": "https://chat.openai.com/"
             }
           ],
           "title": "fav"
@@ -96,10 +100,6 @@
         {
           "title": "Mantine",
           "url": "https://mantine.dev/"
-        },
-        {
-          "title": "https://chat.openai.com",
-          "url": "https://chat.openai.com/"
         }
       ],
       "title": "ToolbarFolder"
