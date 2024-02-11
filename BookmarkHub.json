@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-  "version": "0.0.1",
-  "createDate": 1676903774536,
-  "commitId": "1676903774536",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+  "version": "1.0.0",
+  "createDate": 1707662970632,
+  "commitId": "1707662970632",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -11,101 +11,126 @@
         {
           "children": [
             {
+              "id": "99",
               "title": "GitHub: Where the world builds software · GitHub",
               "url": "https://github.com/"
             },
             {
+              "id": "100",
               "title": "StackBlitz | Instant Dev Environments | Click. Code. Done. - StackBlitz",
               "url": "https://stackblitz.com/"
             },
             {
+              "id": "101",
               "title": "Microsoft 必应搜索",
               "url": "https://cn.bing.com/"
             },
             {
+              "id": "102",
               "title": "React – A JavaScript library for building user interfaces",
               "url": "https://reactjs.org/"
             },
             {
+              "id": "103",
               "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
               "url": "https://vuejs.org/"
             },
             {
+              "id": "104",
               "title": "维基百科，自由的百科全书",
               "url": "https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
             },
             {
+              "id": "105",
               "title": "Learn Rust - Rust Programming Language",
               "url": "https://www.rust-lang.org/learn"
             },
             {
+              "id": "106",
               "title": "The Go Programming Language",
               "url": "https://go.dev/"
             },
             {
+              "id": "107",
               "title": "Apple",
               "url": "https://www.apple.com/"
             },
             {
+              "id": "108",
               "title": "YouTube",
               "url": "https://www.youtube.com/"
             },
             {
+              "id": "109",
               "title": "GitHub - wailsapp/wails: Create beautiful applications using Go",
               "url": "https://github.com/wailsapp/wails"
             },
             {
+              "id": "110",
               "title": "她会魔法吧 - YouTube",
               "url": "https://www.youtube.com/watch?v=BWK_n6t9nd0"
             },
             {
+              "id": "111",
               "title": "https://chat.openai.com",
               "url": "https://chat.openai.com/"
             }
           ],
+          "id": "98",
           "title": "fav"
         },
         {
+          "id": "112",
           "title": "BookmarkHub - 书签同步 - Chrome 网上应用店",
           "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
         },
         {
+          "id": "113",
           "title": "DeepL翻译：全世界最准确的翻译",
           "url": "https://www.deepl.com/translator"
         },
         {
+          "id": "114",
           "title": "V2EX",
           "url": "https://v2ex.com/?tab=all"
         },
         {
+          "id": "115",
           "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
           "url": "https://www.jd.com/"
         },
         {
+          "id": "116",
           "title": "Visual Studio Code - Code Editing. Redefined",
           "url": "https://code.visualstudio.com/"
         },
         {
+          "id": "117",
           "title": "AdGuard — World's most advanced adblocker!",
           "url": "https://adguard.com/en/welcome.html"
         },
         {
+          "id": "118",
           "title": "稀土掘金",
           "url": "https://juejin.cn/"
         },
         {
+          "id": "119",
           "title": "peng-zhihui (稚晖) · GitHub",
           "url": "https://github.com/peng-zhihui"
         },
         {
+          "id": "120",
           "title": "Mantine",
           "url": "https://mantine.dev/"
         }
       ],
+      "id": "1",
       "title": "ToolbarFolder"
     },
     {
       "children": [],
+      "id": "2",
       "title": "UnfiledFolder"
     }
   ]
