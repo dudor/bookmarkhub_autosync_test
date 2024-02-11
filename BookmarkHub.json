@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-  "version": "1.0.0",
-  "createDate": 1707656710710,
-  "commitId": "1707656710710",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+  "version": "0.0.1",
+  "createDate": 1676903774536,
+  "commitId": "1676903774536",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -11,211 +11,102 @@
         {
           "children": [
             {
-              "children": [
-                {
-                  "dateAdded": 1707656710663,
-                  "id": "76",
-                  "index": 0,
-                  "parentId": "75",
-                  "title": "GitHub: Where the world builds software · GitHub",
-                  "url": "https://github.com/"
-                },
-                {
-                  "dateAdded": 1707656710668,
-                  "id": "77",
-                  "index": 1,
-                  "parentId": "75",
-                  "title": "StackBlitz | Instant Dev Environments | Click. Code. Done. - StackBlitz",
-                  "url": "https://stackblitz.com/"
-                },
-                {
-                  "dateAdded": 1707656710669,
-                  "id": "78",
-                  "index": 2,
-                  "parentId": "75",
-                  "title": "Microsoft 必应搜索",
-                  "url": "https://cn.bing.com/"
-                },
-                {
-                  "dateAdded": 1707656710672,
-                  "id": "79",
-                  "index": 3,
-                  "parentId": "75",
-                  "title": "React – A JavaScript library for building user interfaces",
-                  "url": "https://reactjs.org/"
-                },
-                {
-                  "dateAdded": 1707656710673,
-                  "id": "80",
-                  "index": 4,
-                  "parentId": "75",
-                  "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
-                  "url": "https://vuejs.org/"
-                },
-                {
-                  "dateAdded": 1707656710674,
-                  "id": "81",
-                  "index": 5,
-                  "parentId": "75",
-                  "title": "维基百科，自由的百科全书",
-                  "url": "https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
-                },
-                {
-                  "dateAdded": 1707656710676,
-                  "id": "82",
-                  "index": 6,
-                  "parentId": "75",
-                  "title": "Learn Rust - Rust Programming Language",
-                  "url": "https://www.rust-lang.org/learn"
-                },
-                {
-                  "dateAdded": 1707656710677,
-                  "id": "83",
-                  "index": 7,
-                  "parentId": "75",
-                  "title": "The Go Programming Language",
-                  "url": "https://go.dev/"
-                },
-                {
-                  "dateAdded": 1707656710679,
-                  "id": "84",
-                  "index": 8,
-                  "parentId": "75",
-                  "title": "Apple",
-                  "url": "https://www.apple.com/"
-                },
-                {
-                  "dateAdded": 1707656710681,
-                  "id": "85",
-                  "index": 9,
-                  "parentId": "75",
-                  "title": "YouTube",
-                  "url": "https://www.youtube.com/"
-                },
-                {
-                  "dateAdded": 1707656710682,
-                  "id": "86",
-                  "index": 10,
-                  "parentId": "75",
-                  "title": "GitHub - wailsapp/wails: Create beautiful applications using Go",
-                  "url": "https://github.com/wailsapp/wails"
-                },
-                {
-                  "dateAdded": 1707656710684,
-                  "id": "87",
-                  "index": 11,
-                  "parentId": "75",
-                  "title": "她会魔法吧 - YouTube",
-                  "url": "https://www.youtube.com/watch?v=BWK_n6t9nd0"
-                },
-                {
-                  "dateAdded": 1707656710685,
-                  "id": "88",
-                  "index": 12,
-                  "parentId": "75",
-                  "title": "https://chat.openai.com",
-                  "url": "https://chat.openai.com/"
-                }
-              ],
-              "dateAdded": 1707656710658,
-              "dateGroupModified": 1707656710685,
-              "id": "75",
-              "index": 0,
-              "parentId": "1",
-              "title": "fav"
+              "title": "GitHub: Where the world builds software · GitHub",
+              "url": "https://github.com/"
             },
             {
-              "dateAdded": 1707656710686,
-              "id": "89",
-              "index": 1,
-              "parentId": "1",
-              "title": "BookmarkHub - 书签同步 - Chrome 网上应用店",
-              "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
+              "title": "StackBlitz | Instant Dev Environments | Click. Code. Done. - StackBlitz",
+              "url": "https://stackblitz.com/"
             },
             {
-              "dateAdded": 1707656710691,
-              "id": "90",
-              "index": 2,
-              "parentId": "1",
-              "title": "DeepL翻译：全世界最准确的翻译",
-              "url": "https://www.deepl.com/translator"
+              "title": "Microsoft 必应搜索",
+              "url": "https://cn.bing.com/"
             },
             {
-              "dateAdded": 1707656710692,
-              "id": "91",
-              "index": 3,
-              "parentId": "1",
-              "title": "V2EX",
-              "url": "https://v2ex.com/?tab=all"
+              "title": "React – A JavaScript library for building user interfaces",
+              "url": "https://reactjs.org/"
             },
             {
-              "dateAdded": 1707656710694,
-              "id": "92",
-              "index": 4,
-              "parentId": "1",
-              "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
-              "url": "https://www.jd.com/"
+              "title": "Vue.js - The Progressive JavaScript Framework | Vue.js",
+              "url": "https://vuejs.org/"
             },
             {
-              "dateAdded": 1707656710697,
-              "id": "93",
-              "index": 5,
-              "parentId": "1",
-              "title": "Visual Studio Code - Code Editing. Redefined",
-              "url": "https://code.visualstudio.com/"
+              "title": "维基百科，自由的百科全书",
+              "url": "https://zh.m.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5"
             },
             {
-              "dateAdded": 1707656710699,
-              "id": "94",
-              "index": 6,
-              "parentId": "1",
-              "title": "AdGuard — World's most advanced adblocker!",
-              "url": "https://adguard.com/en/welcome.html"
+              "title": "Learn Rust - Rust Programming Language",
+              "url": "https://www.rust-lang.org/learn"
             },
             {
-              "dateAdded": 1707656710703,
-              "id": "95",
-              "index": 7,
-              "parentId": "1",
-              "title": "稀土掘金",
-              "url": "https://juejin.cn/"
+              "title": "The Go Programming Language",
+              "url": "https://go.dev/"
             },
             {
-              "dateAdded": 1707656710704,
-              "id": "96",
-              "index": 8,
-              "parentId": "1",
-              "title": "peng-zhihui (稚晖) · GitHub",
-              "url": "https://github.com/peng-zhihui"
+              "title": "Apple",
+              "url": "https://www.apple.com/"
             },
             {
-              "dateAdded": 1707656710707,
-              "id": "97",
-              "index": 9,
-              "parentId": "1",
-              "title": "Mantine",
-              "url": "https://mantine.dev/"
+              "title": "YouTube",
+              "url": "https://www.youtube.com/"
+            },
+            {
+              "title": "GitHub - wailsapp/wails: Create beautiful applications using Go",
+              "url": "https://github.com/wailsapp/wails"
+            },
+            {
+              "title": "她会魔法吧 - YouTube",
+              "url": "https://www.youtube.com/watch?v=BWK_n6t9nd0"
+            },
+            {
+              "title": "https://chat.openai.com",
+              "url": "https://chat.openai.com/"
             }
           ],
-          "dateAdded": 1707640680885,
-          "dateGroupModified": 1707656710707,
-          "id": "1",
-          "index": 0,
-          "parentId": "0",
-          "title": "ToolbarFolder"
+          "title": "fav"
         },
         {
-          "children": [],
-          "dateAdded": 1707640680885,
-          "id": "2",
-          "index": 1,
-          "parentId": "0",
-          "title": "UnfiledFolder"
+          "title": "BookmarkHub - 书签同步 - Chrome 网上应用店",
+          "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
+        },
+        {
+          "title": "DeepL翻译：全世界最准确的翻译",
+          "url": "https://www.deepl.com/translator"
+        },
+        {
+          "title": "V2EX",
+          "url": "https://v2ex.com/?tab=all"
+        },
+        {
+          "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
+          "url": "https://www.jd.com/"
+        },
+        {
+          "title": "Visual Studio Code - Code Editing. Redefined",
+          "url": "https://code.visualstudio.com/"
+        },
+        {
+          "title": "AdGuard — World's most advanced adblocker!",
+          "url": "https://adguard.com/en/welcome.html"
+        },
+        {
+          "title": "稀土掘金",
+          "url": "https://juejin.cn/"
+        },
+        {
+          "title": "peng-zhihui (稚晖) · GitHub",
+          "url": "https://github.com/peng-zhihui"
+        },
+        {
+          "title": "Mantine",
+          "url": "https://mantine.dev/"
         }
       ],
-      "dateAdded": 1707656070164,
-      "id": "0",
-      "title": ""
+      "title": "ToolbarFolder"
+    },
+    {
+      "children": [],
+      "title": "UnfiledFolder"
     }
   ]
 }
