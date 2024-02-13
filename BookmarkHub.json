@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
   "version": "1.0.0",
-  "createDate": 1707815926707,
-  "commitId": "1707815926707",
+  "createDate": 1707817111279,
+  "commitId": "1707817111279",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -100,6 +100,10 @@
         {
           "title": "Mantine",
           "url": "https://mantine.dev/"
+        },
+        {
+          "title": "CryptoJS - CryptoJS",
+          "url": "https://cryptojs.gitbook.io/docs/"
         }
       ],
       "title": "ToolbarFolder"
