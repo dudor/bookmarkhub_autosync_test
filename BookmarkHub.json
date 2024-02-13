@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
   "version": "1.0.0",
-  "createDate": 1707668705743,
-  "commitId": "1707668705742",
+  "createDate": 1707815926707,
+  "commitId": "1707815926707",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -108,5 +108,6 @@
       "children": [],
       "title": "UnfiledFolder"
     }
-  ]
+  ],
+  "sha": "88d4266fd4e6338d13b845fcf289579d209c897823b9217da3e161936f031589"
 }
