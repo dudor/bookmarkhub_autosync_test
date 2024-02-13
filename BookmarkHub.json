@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
   "version": "1.0.0",
-  "createDate": 1707818393763,
-  "commitId": "1707818393763",
+  "createDate": 1707818455237,
+  "commitId": "1707818455237",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -104,6 +104,10 @@
         {
           "title": "CryptoJS - CryptoJS",
           "url": "https://cryptojs.gitbook.io/docs/"
+        },
+        {
+          "title": "Electric Cars, Solar & Clean Energy | Tesla",
+          "url": "https://www.tesla.com/"
         }
       ],
       "title": "ToolbarFolder"
