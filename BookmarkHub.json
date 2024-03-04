@@ -1,8 +1,8 @@
 {
-  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+  "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
   "version": "1.0.0",
-  "createDate": 1707848534378,
-  "commitId": "1707848534378",
+  "createDate": 1709593714766,
+  "commitId": "1709593714766",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -115,10 +115,6 @@
         }
       ],
       "title": "ToolbarFolder"
-    },
-    {
-      "children": [],
-      "title": "UnfiledFolder"
     }
   ],
   "sha": "bf3216496745494a33d0c89a40bd3d3420d4d49dfb22d95bd5a4eb8acbd4db61"
