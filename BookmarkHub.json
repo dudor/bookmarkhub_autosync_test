@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
   "version": "1.0.0",
-  "createDate": 1709593714766,
-  "commitId": "1709593714766",
+  "createDate": 1709740173707,
+  "commitId": "1709740173707",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -74,6 +74,7 @@
           "url": "https://www.deepl.com/translator"
         },
         {
+          "dateLastUsed": 1709739681874,
           "title": "V2EX",
           "url": "https://v2ex.com/?tab=all"
         },
@@ -112,10 +113,14 @@
         {
           "title": "pmndrs/zustand: 🐻 Bear necessities for state management in React",
           "url": "https://github.com/pmndrs/zustand"
+        },
+        {
+          "title": "JetBrains: Essential tools for software developers and teams",
+          "url": "https://www.jetbrains.com/"
         }
       ],
       "title": "ToolbarFolder"
     }
   ],
-  "sha": "bf3216496745494a33d0c89a40bd3d3420d4d49dfb22d95bd5a4eb8acbd4db61"
+  "sha": "dcefe6c2aa47c9f334a5a8359c086e342e5ab927410164711326569868100492"
 }
