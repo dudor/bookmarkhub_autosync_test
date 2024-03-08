@@ -1,8 +1,8 @@
 {
   "browser": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
   "version": "1.0.0",
-  "createDate": 1709740173707,
-  "commitId": "1709740173707",
+  "createDate": 1709909290365,
+  "commitId": "1709909290365",
   "crypted": false,
   "description": "THIS FILE WAS CREATED BY BOOKMARKHUB, DO NOT CHANGE IT!",
   "bookmarks": [
@@ -61,13 +61,33 @@
             {
               "title": "https://chat.openai.com",
               "url": "https://chat.openai.com/"
+            },
+            {
+              "title": "BookmarkHub - 书签同步 - Chrome 网上应用店",
+              "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
+            },
+            {
+              "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
+              "url": "https://www.jd.com/"
+            },
+            {
+              "title": "Visual Studio Code - Code Editing. Redefined",
+              "url": "https://code.visualstudio.com/"
+            },
+            {
+              "title": "AdGuard — World's most advanced adblocker!",
+              "url": "https://adguard.com/en/welcome.html"
+            },
+            {
+              "title": "Mantine",
+              "url": "https://mantine.dev/"
+            },
+            {
+              "title": "JetBrains: Essential tools for software developers and teams",
+              "url": "https://www.jetbrains.com/"
             }
           ],
           "title": "fav"
-        },
-        {
-          "title": "BookmarkHub - 书签同步 - Chrome 网上应用店",
-          "url": "https://chrome.google.com/webstore/detail/bookmarkhub-sync-bookmark/fohimdklhhcpcnpmmichieidclgfdmol/related"
         },
         {
           "title": "DeepL翻译：全世界最准确的翻译",
@@ -79,28 +99,12 @@
           "url": "https://v2ex.com/?tab=all"
         },
         {
-          "title": "京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！",
-          "url": "https://www.jd.com/"
-        },
-        {
-          "title": "Visual Studio Code - Code Editing. Redefined",
-          "url": "https://code.visualstudio.com/"
-        },
-        {
-          "title": "AdGuard — World's most advanced adblocker!",
-          "url": "https://adguard.com/en/welcome.html"
-        },
-        {
           "title": "稀土掘金",
           "url": "https://juejin.cn/"
         },
         {
           "title": "peng-zhihui (稚晖) · GitHub",
           "url": "https://github.com/peng-zhihui"
-        },
-        {
-          "title": "Mantine",
-          "url": "https://mantine.dev/"
         },
         {
           "title": "CryptoJS - CryptoJS",
@@ -113,14 +117,10 @@
         {
           "title": "pmndrs/zustand: 🐻 Bear necessities for state management in React",
           "url": "https://github.com/pmndrs/zustand"
-        },
-        {
-          "title": "JetBrains: Essential tools for software developers and teams",
-          "url": "https://www.jetbrains.com/"
         }
       ],
       "title": "ToolbarFolder"
     }
   ],
-  "sha": "dcefe6c2aa47c9f334a5a8359c086e342e5ab927410164711326569868100492"
+  "sha": "7de477d232317f9e7432cb5650c2c09eac8e6606fd0c12ee7103b30e75a44c04"
 }
