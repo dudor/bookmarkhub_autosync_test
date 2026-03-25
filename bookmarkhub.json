@@ -3,19 +3,14 @@
   "version": "1.0.1",
   "clientInfo": {
     "lastSyncedBy": "edge@mac",
-    "syncedAt": 1774405268127
+    "syncedAt": 1774405270822
   },
-  "sha": "aebe33b00d49af773727fa3e2b6e2a2c8bec1c0bc021b654d4d26f05320b6223",
+  "sha": "3220cace8b0986d09adcc43b1afbae25281e7013c9d5c9c17874cd0fa150a288",
   "nodes": [
     {
-      "id": "root_____mobile",
-      "title": "移动设备上的书签",
-      "dateModified": 1774098979588
-    },
-    {
       "id": "root_____bar",
-      "title": "书签工具栏",
-      "dateModified": 1774405153479,
+      "title": "收藏夹栏",
+      "dateModified": 1774405268124,
       "children": [
         {
           "id": "3myWlmQcl_suKQaTElQ9a",
@@ -137,14 +132,9 @@
       ]
     },
     {
-      "id": "root_____menu",
-      "title": "书签菜单",
-      "dateModified": 1774075210865
-    },
-    {
       "id": "root_____other",
-      "title": "其他书签",
-      "dateModified": 1774171649530
+      "title": "其他收藏夹",
+      "dateModified": 1773285946253
     }
   ]
 }
