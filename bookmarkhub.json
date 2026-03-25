@@ -2,10 +2,10 @@
   "uniqueId": "CXLc2-xOvPMD-QizD82qG",
   "version": "1.0.1",
   "clientInfo": {
-    "lastSyncedBy": "Firefox@mac",
-    "syncedAt": 1774408788924
+    "lastSyncedBy": "edge@mac",
+    "syncedAt": 1774408863219
   },
-  "sha": "846510e2cf273e97352fe2878616d35dcc981389232c60d81a2a11950bfb890e",
+  "sha": "3220cace8b0986d09adcc43b1afbae25281e7013c9d5c9c17874cd0fa150a288",
   "nodes": [
     {
       "id": "root_____bar",
@@ -15,24 +15,24 @@
         {
           "id": "3myWlmQcl_suKQaTElQ9a",
           "title": "A",
-          "dateModified": 1774399076508,
+          "dateModified": 1774340949857,
           "children": [
             {
               "id": "-DOtoBH6J4Ze3PnIBgItR",
               "title": "Google",
-              "dateModified": 1774273449679,
+              "dateModified": 1774340949853,
               "url": "https://www.google.com/"
             },
             {
               "id": "xtbqMDJ2UPLdjsVrR5S6x",
               "title": "Gmail",
-              "dateModified": 1774273445751,
+              "dateModified": 1774340949854,
               "url": "https://mail.google.com/"
             },
             {
               "id": "krsSCbT-U7zHvsF5El-M7",
               "title": "YouTube",
-              "dateModified": 1774273440671,
+              "dateModified": 1774340949854,
               "url": "https://www.youtube.com/"
             }
           ]
@@ -40,12 +40,12 @@
         {
           "id": "06AoVA6FvmYPi5Ay8CKT0",
           "title": "B",
-          "dateModified": 1774399076518,
+          "dateModified": 1774340949860,
           "children": [
             {
               "id": "4A05tp0FzFfrN2KxQU_Yy",
               "title": "Get Firefox — Firefox.com",
-              "dateModified": 1774273455134,
+              "dateModified": 1774340949859,
               "url": "https://www.firefox.com/en-US/"
             }
           ]
@@ -53,24 +53,24 @@
         {
           "id": "8Xd-VnpZa7DCfpYi7_fed",
           "title": "temp",
-          "dateModified": 1774341012813,
+          "dateModified": 1773734684697,
           "children": [
             {
               "id": "HFmYh7WxBuH6Cgn6gEB8T",
               "title": "Bash Script for Cursor App Desktop Integration on Linux Environments · Issue #844 · getcursor/cursor · GitHub",
-              "dateModified": 1774341012810,
+              "dateModified": 1773734684697,
               "url": "https://github.com/getcursor/cursor/issues/844#issuecomment-2080288303:"
             },
             {
               "id": "TzCRfs5JrYBOlciooc-aa",
               "title": "GitHub",
-              "dateModified": 1774341012812,
+              "dateModified": 1773734684697,
               "url": "https://github.com/"
             },
             {
               "id": "P2ScCNdxRZytsxIJoswlM",
               "title": "Google AI - How we're making AI helpful for everyone - Google AI",
-              "dateModified": 1774341012813,
+              "dateModified": 1773734684697,
               "url": "https://ai.google/?utm_source=ai-google-com&utm_medium=redirect&utm_campaign=ai-google-com-website-redirect"
             }
           ]
@@ -78,55 +78,55 @@
         {
           "id": "cWkjtJ8sLa3MTJ9VaM7tg",
           "title": "Google",
-          "dateModified": 1774273256199,
+          "dateModified": 1774340949860,
           "url": "https://www.google.com/"
         },
         {
           "id": "zpfZRI5FwuARHXnp1DlmP",
           "title": "Get Firefox — Firefox.com",
-          "dateModified": 1774273349309,
+          "dateModified": 1774340949861,
           "url": "https://www.firefox.com/en-US/"
         },
         {
           "id": "KrCLGtuzqLhs3DirWmnIr",
           "title": "Gmail",
-          "dateModified": 1774273370561,
+          "dateModified": 1774340949862,
           "url": "https://mail.google.com/"
         },
         {
           "id": "9kyycO3gZp68AP5KDOrTT",
           "title": "YouTube",
-          "dateModified": 1774273392789,
+          "dateModified": 1774340949862,
           "url": "https://www.youtube.com/"
         },
         {
           "id": "j-Rfirq9_uuntqAIsXEz4",
           "title": "Apple",
-          "dateModified": 1774327454329,
+          "dateModified": 1774340949863,
           "url": "https://www.apple.com/"
         },
         {
           "id": "FpSB1ejMAQp_VcxDokXqi",
           "title": "BookmarkHub",
-          "dateModified": 1774273418563,
+          "dateModified": 1774340949863,
           "url": "https://bh.memoload.com/en"
         },
         {
           "id": "DK1jVUOdkEE219k0oCcmo",
           "title": "探索 - 在 TikTok 上发现你喜欢的视频",
-          "dateModified": 1774327364374,
+          "dateModified": 1774340949863,
           "url": "https://www.tiktok.com/explore"
         },
         {
           "id": "jwTnBuzdbkAK-6jJcTmxD",
           "title": "Microsoft Edge 的新增功能",
-          "dateModified": 1774341012821,
+          "dateModified": 1773707905377,
           "url": "https://www.microsoft.com/zh-cn/edge/update/146?ep=1850&es=327&form=MT00ZZ&channel=stable&version=146.0.3856.59&cs=4008444201"
         },
         {
           "id": "XxlHkSFO_plx5fu_I6jYS",
           "title": "Chrome 应用商店",
-          "dateModified": 1774327364371,
+          "dateModified": 1774340949866,
           "url": "https://chromewebstore.google.com/?pli=1"
         }
       ]
