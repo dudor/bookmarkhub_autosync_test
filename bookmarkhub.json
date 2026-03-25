@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "clientInfo": {
     "lastSyncedBy": "Firefox@mac",
-    "syncedAt": 1774405099363
+    "syncedAt": 1774405161407
   },
-  "sha": "b66c5fb62bb95447e6008e2104d49e6d22bbb3471fb66254951242e2b24ce117",
+  "sha": "222bad891d2cbd7e6ff4f9f1582dfcc3f32d9b9ac7c6b68615eb1cc16c5dbf69",
   "nodes": [
     {
       "id": "root_____menu",
@@ -15,7 +15,7 @@
     {
       "id": "root_____bar",
       "title": "书签工具栏",
-      "dateModified": 1774405096243,
+      "dateModified": 1774405153479,
       "children": [
         {
           "id": "3myWlmQcl_suKQaTElQ9a",
@@ -123,22 +123,10 @@
           "url": "https://www.tiktok.com/explore"
         },
         {
-          "id": "tRmd0fva6z60t8hQyw3RR",
-          "title": "Free Open Source Tailwind CSS Components | HyperUI",
-          "dateModified": 1774341012815,
-          "url": "https://www.hyperui.dev/"
-        },
-        {
           "id": "jwTnBuzdbkAK-6jJcTmxD",
           "title": "Microsoft Edge 的新增功能",
           "dateModified": 1774341012821,
           "url": "https://www.microsoft.com/zh-cn/edge/update/146?ep=1850&es=327&form=MT00ZZ&channel=stable&version=146.0.3856.59&cs=4008444201"
-        },
-        {
-          "id": "CH6e3hoIHeCGibC3xg0Ma",
-          "title": "Tailwind Layouts - A layout primitives plugin for Tailwind CSS",
-          "dateModified": 1774341012816,
-          "url": "https://tailwind-layouts.dev/"
         },
         {
           "id": "XxlHkSFO_plx5fu_I6jYS",
